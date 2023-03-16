@@ -1,3 +1,3 @@
 
-String email=  "kdeneme@gmail.com"
+String email=  "asd@gmail.com"
 
